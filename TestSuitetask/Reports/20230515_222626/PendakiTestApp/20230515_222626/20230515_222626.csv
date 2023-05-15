@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PendakiTestApp,,,,2023-05-15 22:26:37,2023-05-15 22:27:46,1m - 9.220s,PASSED
+,,,,,,,
+Test Cases/DetailTips,,,,2023-05-15 22:26:37,2023-05-15 22:27:10,33.571s,PASSED
+"startApplication(""C:\Users\LENOVO\Katalon Studio\TestSuitetask\MobileTest\app-pendaki (2).apk"", true)",,,,2023-05-15 22:26:37,2023-05-15 22:27:03,25.970s,PASSED
+"tap(findTestObject(""Object Repository/OpenDetailTips/BurgerButton""), 0)",,,,2023-05-15 22:27:03,2023-05-15 22:27:04,0.899s,PASSED
+"tap(findTestObject(""Object Repository/OpenDetailTips/Peralatan""), 0)",,,,2023-05-15 22:27:04,2023-05-15 22:27:05,1.229s,PASSED
+"tap(findTestObject(""Object Repository/OpenDetailTips/Tips""), 0)",,,,2023-05-15 22:27:05,2023-05-15 22:27:08,2.397s,PASSED
+"tap(findTestObject(""Object Repository/OpenDetailTips/TipsMemilihPeralatanMasak""), 0)",,,,2023-05-15 22:27:08,2023-05-15 22:27:09,1.195s,PASSED
+closeApplication(),,,,2023-05-15 22:27:09,2023-05-15 22:27:10,1.497s,PASSED
+,,,,,,,
+Test Cases/OpenMonthDetail,,,,2023-05-15 22:27:10,2023-05-15 22:27:46,35.402s,PASSED
+"startApplication(""C:\Users\LENOVO\Katalon Studio\TestSuitetask\MobileTest\app-pendaki (2).apk"", true)",,,,2023-05-15 22:27:11,2023-05-15 22:27:35,24.676s,PASSED
+"tap(findTestObject(""Object Repository/OpenMonthDetail/JawaBarat""), 0)",,,,2023-05-15 22:27:35,2023-05-15 22:27:37,1.407s,PASSED
+"delay(3, STOP_ON_FAILURE)",,,,2023-05-15 22:27:37,2023-05-15 22:27:40,3.048s,PASSED
+"tap(findTestObject(""Object Repository/OpenMonthDetail/Month""), 0)",,,,2023-05-15 22:27:40,2023-05-15 22:27:41,1.001s,PASSED
+"delay(3, STOP_ON_FAILURE)",,,,2023-05-15 22:27:41,2023-05-15 22:27:44,3.017s,PASSED
+"tap(findTestObject(""Object Repository/OpenMonthDetail/MonthImage""), 0)",,,,2023-05-15 22:27:44,2023-05-15 22:27:44,0.461s,PASSED
+closeApplication(),,,,2023-05-15 22:27:44,2023-05-15 22:27:46,1.468s,PASSED

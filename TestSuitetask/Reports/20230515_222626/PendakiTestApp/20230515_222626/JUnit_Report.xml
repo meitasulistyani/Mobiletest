@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="PendakiTestApp" time="69.22" tests="2" failures="0" errors="0">
+   <testsuite name="PendakiTestApp" tests="2" failures="0" errors="0" time="69.22" skipped="0" timestamp="2023-05-15 22:26:37" hostname="LENOVO - 192.168.1.41" id="Test Suites/PendakiTestApp">
+      <properties>
+         <property name="deviceName" value="Xiaomi M2003J15SC (Android 10)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\Katalon Studio\\TestSuitetask\\Reports\\20230515_222626\\PendakiTestApp\\20230515_222626"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\Katalon Studio\\TestSuitetask\\Reports\\20230515_222626\\PendakiTestApp\\20230515_222626\\appium.log, C:\\Users\\LENOVO\\Katalon Studio\\TestSuitetask\\Reports\\20230515_222626\\PendakiTestApp\\20230515_222626\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - 192.168.1.41"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.3&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.22.3"/>
+         <property name="deviceModel" value="M2003J15SC"/>
+         <property name="hostAddress" value="192.168.1.41"/>
+         <property name="deviceManufacturer" value="Xiaomi"/>
+         <property name="deviceId" value="a931d40b0410"/>
+         <property name="deviceName" value="Xiaomi M2003J15SC (Android 10)"/>
+         <property name="deviceOSVersion" value="10"/>
+      </properties>
+      <testcase name="Test Cases/DetailTips" time="33.571" classname="Test Cases/DetailTips" status="PASSED">
+         <system-out><![CDATA[2023-05-15 22:26:37 - [TEST_CASE][PASSED] - Test Cases/DetailTips: Test Cases/DetailTips
+
+2023-05-15 22:26:37 - [TEST_STEP][PASSED] - startApplication("C:\Users\LENOVO\Katalon Studio\TestSuitetask\MobileTest\app-pendaki (2).apk", true): Started app at: 'C:\Users\LENOVO\Katalon Studio\TestSuitetask\MobileTest\app-pendaki (2).apk'
+
+2023-05-15 22:26:38 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+2023-05-15 22:26:39 - [MESSAGE][INFO] - Appium server started on port 54,745
+
+2023-05-15 22:27:03 - [MESSAGE][PASSED] - Started app at: 'C:\Users\LENOVO\Katalon Studio\TestSuitetask\MobileTest\app-pendaki (2).apk'
+
+2023-05-15 22:27:03 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/OpenDetailTips/BurgerButton"), 0): Tapped on element 'Object Repository/OpenDetailTips/BurgerButton'
+
+2023-05-15 22:27:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-15 22:27:04 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OpenDetailTips/BurgerButton'
+
+2023-05-15 22:27:04 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/OpenDetailTips/Peralatan"), 0): Tapped on element 'Object Repository/OpenDetailTips/Peralatan'
+
+2023-05-15 22:27:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-15 22:27:05 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OpenDetailTips/Peralatan'
+
+2023-05-15 22:27:05 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/OpenDetailTips/Tips"), 0): Tapped on element 'Object Repository/OpenDetailTips/Tips'
+
+2023-05-15 22:27:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-15 22:27:08 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OpenDetailTips/Tips'
+
+2023-05-15 22:27:08 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/OpenDetailTips/TipsMemilihPeralatanMasak"), 0): Tapped on element 'Object Repository/OpenDetailTips/TipsMemilihPeralatanMasak'
+
+2023-05-15 22:27:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-15 22:27:09 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OpenDetailTips/TipsMemilihPeralatanMasak'
+
+2023-05-15 22:27:09 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2023-05-15 22:27:10 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/OpenMonthDetail" time="35.402" classname="Test Cases/OpenMonthDetail" status="PASSED">
+         <system-out><![CDATA[2023-05-15 22:27:10 - [TEST_CASE][PASSED] - Test Cases/OpenMonthDetail: Test Cases/OpenMonthDetail
+
+2023-05-15 22:27:11 - [TEST_STEP][PASSED] - startApplication("C:\Users\LENOVO\Katalon Studio\TestSuitetask\MobileTest\app-pendaki (2).apk", true): Started app at: 'C:\Users\LENOVO\Katalon Studio\TestSuitetask\MobileTest\app-pendaki (2).apk'
+
+2023-05-15 22:27:11 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+2023-05-15 22:27:12 - [MESSAGE][INFO] - Appium server started on port 54,864
+
+2023-05-15 22:27:35 - [MESSAGE][PASSED] - Started app at: 'C:\Users\LENOVO\Katalon Studio\TestSuitetask\MobileTest\app-pendaki (2).apk'
+
+2023-05-15 22:27:35 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/OpenMonthDetail/JawaBarat"), 0): Tapped on element 'Object Repository/OpenMonthDetail/JawaBarat'
+
+2023-05-15 22:27:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-15 22:27:37 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OpenMonthDetail/JawaBarat'
+
+2023-05-15 22:27:37 - [TEST_STEP][PASSED] - delay(3, STOP_ON_FAILURE): Delayed 3 second(s)
+
+2023-05-15 22:27:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-05-15 22:27:40 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/OpenMonthDetail/Month"), 0): Tapped on element 'Object Repository/OpenMonthDetail/Month'
+
+2023-05-15 22:27:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-15 22:27:41 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OpenMonthDetail/Month'
+
+2023-05-15 22:27:41 - [TEST_STEP][PASSED] - delay(3, STOP_ON_FAILURE): Delayed 3 second(s)
+
+2023-05-15 22:27:44 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2023-05-15 22:27:44 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/OpenMonthDetail/MonthImage"), 0): Tapped on element 'Object Repository/OpenMonthDetail/MonthImage'
+
+2023-05-15 22:27:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-15 22:27:44 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/OpenMonthDetail/MonthImage'
+
+2023-05-15 22:27:44 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2023-05-15 22:27:46 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-05-15 22:26:37 - [TEST_SUITE][PASSED] - PendakiTestApp: Test Cases/OpenMonthDetail]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
